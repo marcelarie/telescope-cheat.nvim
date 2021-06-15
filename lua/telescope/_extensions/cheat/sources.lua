@@ -47,7 +47,7 @@ M[2] = {
 }
 
 M[3] = {
-    name = "cheatsheets",
+    name = "personal",
     uri = "https://github.com/marcelarie/dots/tree/main/.config/cheat/cheatsheets/personal",
     ns = "unix",
     root = "",
