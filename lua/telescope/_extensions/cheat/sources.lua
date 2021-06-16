@@ -48,9 +48,9 @@ M[2] = {
 
 M[3] = {
     name = "personal",
-    uri = "https://github.com/marcelarie/dots/tree/main/.config/cheat/cheatsheets/personal",
+    uri = "https://github.com/marcelarie/dots",
     ns = "unix",
-    root = "",
+    root = ".config/cheat/cheatsheets/personal",
     pattern = "",
     ft = "sh",
     parse = parse,
